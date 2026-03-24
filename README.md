@@ -4,7 +4,7 @@
 
 Building production infrastructure that traces every packet from wire to browser. Go, Rust, Python, eBPF.
 
-Currently building [Unheaded](https://github.com/unheaded/unheaded) — a configuration management automation platform with packet-level observability baked into the wire. Three RFC-style protocol specs. 385K lines of production code. 34 services. 23 eBPF programs.
+Currently building [Unheaded](https://github.com/unheaded/unheaded) — a configuration management automation platform with packet-level observability baked into the wire. Six RFC-style protocol specs. 385K lines of production code. 34 services. 23 eBPF programs.
 
 ## What I Build
 
