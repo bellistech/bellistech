@@ -3,10 +3,14 @@
 **SRE / Platform / Infrastructure Engineer**
 
 
+Hi I'm Stevie Bellis, a system operations human amalgamation residing in Austin, Texas.
+
+Professionally I've spent the last 10 years of my career in tech, with the last 7 or so rapturously focused on hybrid datacenter and cloud environments, operating shared infrastructure for enterprise SaaS. Mostly SRE stuff. Focused primarily on networking, security, Linux systems, and building automation and backend tooling to support both customer facing production and backend platform environments.
+
+Unprofessionally I like riding bicycles(BMX/MTB/Road) & carbureted motorcycles, hiking, live music, rock climbing/bouldering, swiming in cold & warm & hot water, camping, my cat, and my dog.
+
+
+
 Currently building [Unheaded](https://github.com/unheaded/unheaded) 
 
-
-**CLI tools** — daily-driver utilities that solve real problems: [p2t](https://github.com/bellistech/p2t) (PDF extraction), [na](https://github.com/bellistech/na) (network auditing), [nn](https://github.com/bellistech/nn) (note-taking), [ggk](https://github.com/bellistech/ggk) (SSH key management), [zs](https://github.com/bellistech/zs) (system summary), [m2j](https://github.com/bellistech/m2j) (markdown to JSON), [cs](https://github.com/bellistech/cs)Cheat sheet cli application for quick references.
-
-**Production daemons** — [weather-daemon](https://github.com/bellistech/weather-daemon) and [rss-daemon](https://github.com/bellistech/rss-daemon) running in prod with health checks, monitoring integration, and structured logging.
 
