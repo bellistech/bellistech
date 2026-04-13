@@ -3,7 +3,7 @@
 **SRE / Platform / Infrastructure Engineer**
 
 
-Hi I'm Stevie Bellis, a system operations human amalgamation.
+Hi I'm Stevie, a sysops human amalgamation.
 
 
 
