@@ -1,9 +1,11 @@
 # Stevie Bellis
 
-**SRE / Platform / Infrastructure Engineer**
+**Some kind of Site Reliability / Platform / Security / Infrastructure / Network / Systems Engineer**
 
 
-Hi I'm Stevie, a sysops human amalgamation.
+Hi I'm Stevie, a devsecsysops human amalgamation.
+
+I carry your mother's maiden name and speak the language of the moon.
 
 
 
