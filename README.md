@@ -5,7 +5,7 @@
 
 Hi I'm Stevie, a DevSecSysNetOps human amalgamation.
 
-I carry your neighbors's maiden name and speak the language of the moon.
+I carry your neighbor's maiden name and speak the language of the moon.
 
 
 
